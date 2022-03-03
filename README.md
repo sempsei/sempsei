@@ -20,3 +20,9 @@ I'm a full stack developer... coding some stuff at night. sleeping by day...
 ## 🛠 Skills
 Javascript, HTML, CSS, Python...
 
+
+## Authors
+
+- [@sempsei001](https://www.github.com/sempsei001)
+
+
