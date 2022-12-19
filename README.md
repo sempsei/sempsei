@@ -23,6 +23,6 @@ Javascript, HTML, CSS, Python...
 
 ## Authors
 
-- [@sempsei001](https://www.github.com/sempsei001)
+- [@sempsei](https://www.github.com/sempsei)
 
 
