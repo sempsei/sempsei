@@ -4,7 +4,7 @@
 
 # Sempsei
 
-Take a look at my profile and get to know me a little!
+Take a look at my profile and get to know me a little! (IN PROGRESS)
 
 
 ## 🚀 About Me
