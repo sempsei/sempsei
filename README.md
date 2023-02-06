@@ -1,5 +1,5 @@
 
-![Logo](https://wallpaperaccess.com/continue.png)
+![Logo](https://wallpaperaccess.com/full/832357.jpg)
 
 
 # Sempsei
