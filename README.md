@@ -1,5 +1,5 @@
 
-![Logo]([https://wallpaper.dog/large/20487215.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpaperaccess.com%2Fminimalist-coding&psig=AOvVaw1caoHK6TISvI7P5SusShaW&ust=1675761767829000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPjbnpnJgP0CFQAAAAAdAAAAABAJ))
+![Logo](https://wallpaperaccess.com/continue.png)
 
 
 # Sempsei
