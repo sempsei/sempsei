@@ -8,7 +8,7 @@ Take a look at my profile and get to know me a little! (IN PROGRESS)
 
 
 ## 🚀 About Me
-I'm a full stack developer... coding some stuff at night. sleeping by day...
+I'm a Developer... coding some stuff at night. sleeping by day...
 
 
 ## 🔗 Links
