@@ -1,17 +1,17 @@
-<!-- Carrega a imagem de cima -->
+<!-- Show top image -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<!--Exibe o texto-->
+<!--Displays the text-->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luan+Rezende;I'm+19+years+old;I+am+from+Brasil,+SP;I+study+Computer+Science+at+Estácio;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 
 <div align="center"> 
   
-<!--Mostra a o github status-->
+<!--Show github statuss-->
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sempsei&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=161d25" alt="Luan Rezende's github status" /> 
   
-<!--Mostra as linguagens usadas-->
+<!--Show used languages-->
   
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sempsei&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=161d25" alt="Luan Rezende's Top Languages" />
 <br>
@@ -23,7 +23,7 @@
 </a>
 <br><br>
  
-<!-- Conquistas -->
+<!-- Awards -->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sempsei&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
@@ -59,5 +59,5 @@
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
   
 </div>
-<!-- Mostra a imaagem de baixo -->
+<!-- Show bottom image -->
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
