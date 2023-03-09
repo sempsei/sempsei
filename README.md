@@ -21,6 +21,8 @@
 <a href="https://mobile.twitter.com/sempsei001">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
 </a>
+<a href="https://www.linkedin.com/in/luan-rezende-553521268/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 <br><br>
  
 <!-- Awards -->
@@ -57,7 +59,7 @@
   
   ### Studying in this moment:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  
+
 </div>
 <!-- Show bottom image -->
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
