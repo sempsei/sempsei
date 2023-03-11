@@ -8,7 +8,7 @@
 
 <div align="center"> 
   
-<!--Show github statuss-->
+<!--Show Github status-->
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=sempsei&show_icons=true&hide_border=true&count_private=true&theme=dark&bg_color=161d25" alt="Luan Rezende's github status" /> 
   
 <!--Show used languages-->
@@ -57,7 +57,7 @@
   <br>
   
   
-  ### Studying in this moment:
+  ### Currently studying:
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
 </div>
