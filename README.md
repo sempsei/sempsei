@@ -24,13 +24,6 @@
 <a href="https://www.linkedin.com/in/luan-rezende-553521268/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 <br><br>
- 
-<!-- Awards -->
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sempsei&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-  <br>
 
 <!-- Skills -->
   
