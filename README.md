@@ -17,6 +17,10 @@
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sempsei&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=161d25" alt="Luan Rezende's Top Languages" />
 <br>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg" />
+</p>
+
 ### Social medias:
 
 <a href="https://mobile.twitter.com/sempsei001">
