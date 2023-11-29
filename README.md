@@ -61,7 +61,7 @@
   
   
   ### Currently studying:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-react-282B3E?style=for-the-badge&logo=react&logoColor=61DCFC&labelColor=282B3E)&nbsp;
 
 </div>
 <!-- Show bottom image -->
