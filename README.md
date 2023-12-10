@@ -56,6 +56,7 @@
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 <img src="https://img.shields.io/badge/Wordpress-1E2235?style=for-the-badge&logo=wordpress&logoColor=00749A">
+<img src="https://img.shields.io/badge/-react-282B3E?style=for-the-badge&amp;logo=react&amp;logoColor=61DCFC&amp;labelColor=282B3E">
 
   <br>
   
